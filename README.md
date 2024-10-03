@@ -1,2 +1,2 @@
 # auto-canvas
-Tesseract (OCR) Script for Canvas Automation
+Tesseract (OCR) Service for Canvas Automation
